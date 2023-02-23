@@ -7,12 +7,16 @@ Any feedback would be appreciated and feel free to borrow some code if you can't
 May the Force be with you!
 
 ## 1 ADO.NET
+### Exercises
 1.01. Minions<br>
 
 ## 2 ORM Fundamentals
+### Exercises
 2.01. MiniORM<br>
 
 ## 3 Entity Framework Core Introduction
+### Exercises
+3.01. Import Databas<br>
 3.02. Database First<br>
 3.03. Employees Full Information<br>
 3.04. Employees with Salary Over 50 000<br>
@@ -29,18 +33,27 @@ May the Force be with you!
 3.15. Remove Town<br>
 
 ## 4 Entity Relations
+### Exercises
 4.01. Student System<br>
 4.02. Football Betting<br>
 
+### More exercises
+4.01. Hospital Database<br>
+4.02. Hospital Database Modification<br>
+4.03. Sales Database<br>
+
 ## 5 LINQ
+### Exercises
 5.01. MusicHub Database<br>
 5.02. Albums Info<br>
 5.03. Songs Above Duration<br>
 
 ## 6 Automapping objects
+### Exercises
 6.01. MusicHub<br>
 
 ## 7 Advanced querying
+### Exercises
 7.02. Age Restriction<br>
 7.03. Golden Books<br>
 7.04. Books by Price<br>
@@ -58,6 +71,7 @@ May the Force be with you!
 7.16. Remove Books<br>
 
 ## 8 JSON Processing
+### Exercises
 8.01. Import Users<br>
 8.02. Import Products<br>
 8.03. Import Categories<br>
@@ -79,6 +93,7 @@ May the Force be with you!
 8.19. Export Sales With Applied Discount<br>
 
 ## 9 XML Processing
+### Exercises
 9.01. Import Users<br>
 9.02. Import Products<br>
 9.03. Import Categories<br>
