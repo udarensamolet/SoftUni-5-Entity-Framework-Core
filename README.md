@@ -78,8 +78,7 @@ May the Force be with you!
 8.18. Export Total Sales By Customer<br>
 8.19. Export Sales With Applied Discount<br>
 
-## XML Processing
-## 8 JSON Processing
+## 9 XML Processing
 9.01. Import Users<br>
 9.02. Import Products<br>
 9.03. Import Categories<br>
