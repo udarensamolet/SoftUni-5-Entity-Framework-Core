@@ -116,3 +116,8 @@ May the Force be with you!
 
 ## 11 Workshop 1
 11.1. [Eventmi](https://github.com/udarensamolet/Eventmi)
+
+## 12 Workshop 2
+12.1. Blog
+
+
