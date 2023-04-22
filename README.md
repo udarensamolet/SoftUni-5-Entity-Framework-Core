@@ -114,6 +114,10 @@ May the Force be with you!
 9.18. Export Total Sales By Customer<br>
 9.19. Export Sales With Applied Discount<br>
 
+
+## 10 Best Practices and Architecture
+10.1. PetStore
+
 ## 11 Workshop 1
 11.1. [Eventmi](https://github.com/udarensamolet/Eventmi)
 
